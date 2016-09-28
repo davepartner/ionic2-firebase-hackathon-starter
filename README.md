@@ -18,7 +18,7 @@ When you have completed the above processes, run:
 You can download this project directly or clone it using git
 run the following command
 ```
- git clone https://github.com/daveozoalor/fireblogger
+ git clone https://github.com/daveozoalor/ionic2-firebase-hackathon-starter
 `````
 
 After downloading/cloning it
