@@ -1,6 +1,7 @@
-# Fireblogger 
+# ionic2 Firebase3 hackathon starter pack
 
-A blogging app built with [Ionic 2](http://ionicframework.com) and  [Firebase](https://firebase.google.com)
+This is a hackathon starter pack built with [Ionic 2](http://ionicframework.com) and  [Firebase 3](https://firebase.google.com). 
+Its a mobile template that comes complete with user registration, google login authentication, reset password, user profile and so on, so you dont have to go through that stress when next you wish to create a new Ionic2 app.  
 
 ## Tutorial
 The video tutorials for this repo is on youtube, please do well to subscribe: https://www.youtube.com/playlist?list=PLnBvgoOXZNCPxZJohnrdfR6Nlr1ilaHJO
