@@ -39,7 +39,7 @@ displayUser(theUserId){
 	
 		 //get user photo
 		that.userPhotoUrl = snapshot.val().photo; //get user photo
-	   that.userDislplayName= snapshot.val().job || "Unemployed Due to recession"; 
+	   that.userDislplayName= snapshot.val().username; 
 	})
 }
 
