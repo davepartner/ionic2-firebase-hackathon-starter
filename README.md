@@ -1,5 +1,9 @@
 # ionic2 Firebase3 hackathon starter pack
 
+#notice
+The updated version of this project with geofire and geolocation setup is here => [Ionic3 firebase geofire setup ) (https://github.com/daveozoalor/Ionic3-firebase-authentication-geofire-geolocation) . Dont forget to star it, I'm counting on you . thanks.
+
+
 This is a hackathon starter pack built with [Ionic 2](http://ionicframework.com) and  [Firebase 3](https://firebase.google.com). 
 Its a mobile template that comes complete with user registration, google login authentication, reset password, user profile and so on, so you dont have to go through that stress when next you wish to create a new Ionic2 app.  
 
